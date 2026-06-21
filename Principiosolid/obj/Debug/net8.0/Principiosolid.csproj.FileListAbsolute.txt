@@ -1,0 +1,14 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\bin\Debug\net8.0\Principiosolid.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\bin\Debug\net8.0\Principiosolid.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\bin\Debug\net8.0\Principiosolid.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\bin\Debug\net8.0\Principiosolid.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\bin\Debug\net8.0\Principiosolid.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\Principiosolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\Principiosolid.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\Principiosolid.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\Principiosolid.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\Principiosolid.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\refint\Principiosolid.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\Principiosolid.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\Principiosolid.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\AulaS\Principiosolid\Principiosolid\obj\Debug\net8.0\ref\Principiosolid.dll
